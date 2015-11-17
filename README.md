@@ -1,7 +1,5 @@
 # Microsoft Kinect i Processing på OS X og Windows
-
 ##Formål med workshoppen: At blive bekendt med, hvordan man bruger Microsofts Kinect 1 eller 2 via Open Kinect i Processing 3.
-
 
 ###Ressourcer
 
@@ -17,6 +15,7 @@ Herunder er links til de forskellige versioner af Windows SDKet. Der er et link,
 - SDK 2.0 download: http://www.microsoft.com/en-us/download/details.aspx?id=44561
 
 **OpenNI**
+
 I vil måske støde på noget der hedder OpenNI (Open Natural Interface) rundt omkring. Det er blevet købt af Apple og er derfor nu svært at regne med. Der er et firma der kører det videre: Occipital, Inc, der kører Structure.io hvor de laver en tracker til iOS bl.a.
 
 - [OpenNI2 SDK](http://structure.io/openni) (har ikke noget med Processing at gøre)
