@@ -14,7 +14,7 @@ Herunder er links til de forskellige versioner af Windows SDKet. Der er et link,
 - Kinect SDK 2.0 inkl. getting started. Til Kinect v2: https://msdn.microsoft.com/en-us/library/dn799271.aspx
 - SDK 2.0 download: http://www.microsoft.com/en-us/download/details.aspx?id=44561
 
-**OpenNI**<br />
+**OpenNI** <br /><br />
 I vil måske støde på noget der hedder OpenNI (Open Natural Interface) rundt omkring. Det er blevet købt af Apple og er derfor nu svært at regne med. Der er et firma der kører det videre: Occipital, Inc, der kører Structure.io hvor de laver en tracker til iOS bl.a.
 
 - [OpenNI2 SDK](http://structure.io/openni) (har ikke noget med Processing at gøre)
